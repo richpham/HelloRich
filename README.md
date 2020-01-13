@@ -1,6 +1,5 @@
-# HelloRich
-Android App CodePath Spring 2020
-## Hello_Rich
+
+## HELLO_RICH
 
 ### App Description
 Android App made by using Android Studio and Java
