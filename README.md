@@ -6,7 +6,7 @@ Android App made by using Android Studio and Java
 This app allow user to change color of background, text,and allow user to change the text
 
 ### App Walk-though
-<img src="https://i.imgur.com/Wclccev.gif" width=200><br>
+<img src="https://i.imgur.com/7cjZVJ1.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
